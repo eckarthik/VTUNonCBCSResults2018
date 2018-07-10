@@ -1,6 +1,10 @@
 ## VTU Results
 This code will collect results of students from the VTU website and performs various analysis like Top students,Subject wise highest marks, Subject wise pass percentage.
 
+## Requirments
+
+This code requires Simple HTML DOM Parser. You can get it from [here](http://simplehtmldom.sourceforge.net/)
+
 ## Usage
 
 This code fetches results and stores in a database. So you have to create a database first. 
